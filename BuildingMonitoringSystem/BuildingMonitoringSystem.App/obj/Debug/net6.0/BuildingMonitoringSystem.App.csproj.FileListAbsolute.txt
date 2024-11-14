@@ -1,0 +1,15 @@
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\bin\Debug\net6.0\BuildingMonitoringSystem.App.deps.json
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\bin\Debug\net6.0\BuildingMonitoringSystem.App.dll
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\bin\Debug\net6.0\BuildingMonitoringSystem.App.pdb
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\bin\Debug\net6.0\BuildingMonitoringSystem.Domain.dll
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\bin\Debug\net6.0\BuildingMonitoringSystem.Domain.pdb
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\obj\Debug\net6.0\BuildingMonitoringSystem.App.csproj.AssemblyReference.cache
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\obj\Debug\net6.0\BuildingMonitoringSystem.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\obj\Debug\net6.0\BuildingMonitoringSystem.App.AssemblyInfoInputs.cache
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\obj\Debug\net6.0\BuildingMonitoringSystem.App.AssemblyInfo.cs
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\obj\Debug\net6.0\BuildingMonitoringSystem.App.csproj.CoreCompileInputs.cache
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\obj\Debug\net6.0\BuildingMonitoringSystem.App.csproj.CopyComplete
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\obj\Debug\net6.0\BuildingMonitoringSystem.App.dll
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\obj\Debug\net6.0\refint\BuildingMonitoringSystem.App.dll
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\obj\Debug\net6.0\BuildingMonitoringSystem.App.pdb
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.App\obj\Debug\net6.0\ref\BuildingMonitoringSystem.App.dll

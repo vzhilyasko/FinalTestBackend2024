@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingMonitoringSystem", "BuildingMonitoringSystem\BuildingMonitoringSystem.csproj", "{0586AE4C-20DB-46D8-AB45-C512320F705D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0586AE4C-20DB-46D8-AB45-C512320F705D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0586AE4C-20DB-46D8-AB45-C512320F705D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0586AE4C-20DB-46D8-AB45-C512320F705D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0586AE4C-20DB-46D8-AB45-C512320F705D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {657ADFAC-81DD-4D7D-82BB-F511CD6E527B}
+	EndGlobalSection
+EndGlobal

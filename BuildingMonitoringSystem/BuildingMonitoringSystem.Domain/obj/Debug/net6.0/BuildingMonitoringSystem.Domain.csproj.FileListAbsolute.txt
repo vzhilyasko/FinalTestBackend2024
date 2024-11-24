@@ -1,0 +1,12 @@
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\bin\Debug\net6.0\BuildingMonitoringSystem.Domain.deps.json
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\bin\Debug\net6.0\BuildingMonitoringSystem.Domain.dll
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\bin\Debug\net6.0\BuildingMonitoringSystem.Domain.pdb
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\obj\Debug\net6.0\BuildingMonitoringSystem.Domain.csproj.AssemblyReference.cache
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\obj\Debug\net6.0\BuildingMonitoringSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\obj\Debug\net6.0\BuildingMonitoringSystem.Domain.AssemblyInfoInputs.cache
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\obj\Debug\net6.0\BuildingMonitoringSystem.Domain.AssemblyInfo.cs
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\obj\Debug\net6.0\BuildingMonitoringSystem.Domain.csproj.CoreCompileInputs.cache
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\obj\Debug\net6.0\BuildingMonitoringSystem.Domain.dll
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\obj\Debug\net6.0\refint\BuildingMonitoringSystem.Domain.dll
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\obj\Debug\net6.0\BuildingMonitoringSystem.Domain.pdb
+D:\FinalTestBackend2024\BuildingMonitoringSystem\BuildingMonitoringSystem.Domain\obj\Debug\net6.0\ref\BuildingMonitoringSystem.Domain.dll
